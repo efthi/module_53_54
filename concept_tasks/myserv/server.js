@@ -1,7 +1,10 @@
 const express = require('express');
+const cors = require('cors');
 
 const app = express();
 const port = process.env.PORT || 3000;
+
+app.use(cors());
 
 app.get('/', (req, res)=>{
     res.send(`<h1 style='text-align:center; 
@@ -11,6 +14,17 @@ app.get('/', (req, res)=>{
 app.get('/info', (req, res)=>{
     res.send(`<h1 style='text-align:center; 
         padding: 10px; color: #4b1444f5; '>Server Info! Express Server at Port:${port} </h1>`);
+});
+
+const users = [
+    {id:1, name: 'aol', email: 'contact@aol.com'},
+    {id:2, name: 'yahoo', email: 'contact@yahoo.com'},
+    {id:3, name: 'msn', email: 'support@msn.com'},
+    {id:4, name: 'google', email: 'reachus@google.com'},
+]
+
+app.get('/users', (req, res)=>{
+    res.send(users);
 });
 
 app.listen(port, (res)=>{
