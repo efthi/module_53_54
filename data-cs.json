@@ -1,0 +1,868 @@
+[
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLm9wZW5haS5jaGF0Z3B0X2ljb25fMTczODY5NDY0NV8wMjM/icon.png?w=160&fakeurl=1",
+
+    "title": "ChatGPT",
+
+    "companyName": "OpenAI",
+
+    "id": 1,
+
+    "description": "ChatGPT is a mobile app by OpenAI that provides AI-powered chat and productivity.",
+
+    "size": 161.66,
+
+    "reviews": 29200000,
+
+    "ratingAvg": 4.7,
+
+    "downloads": 500000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 400000 },
+
+      { "name": "2 star", "count": 120000 },
+
+      { "name": "3 star", "count": 210000 },
+
+      { "name": "4 star", "count": 1200000 },
+
+      { "name": "5 star", "count": 26600000 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuYmFyZF9pY29uXzE3NTE3MzYzMDJfMDU5/icon.png?w=160&fakeurl=1",
+
+    "title": "Google Gemini",
+
+    "companyName": "Google LLC",
+
+    "id": 2,
+
+    "description": "Google Gemini is an AI assistant app from Google for conversational and creative tasks.",
+
+    "size": 84.32,
+
+    "reviews": 17700000,
+
+    "ratingAvg": 4.6,
+
+    "downloads": 500000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 700000 },
+
+      { "name": "2 star", "count": 900000 },
+
+      { "name": "3 star", "count": 1600000 },
+
+      { "name": "4 star", "count": 4200000 },
+
+      { "name": "5 star", "count": 10100000 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jc19pY29uXzE2MDQ1NDEyNzRfMDA3/icon.png?w=160&fakeurl=1",
+
+    "title": "Google Docs",
+
+    "companyName": "Google LLC",
+
+    "id": 3,
+
+    "description": "Google Docs by Google LLC — create, edit and collaborate on documents on the go.",
+
+    "size": 48.91,
+
+    "reviews": 1800000,
+
+    "ratingAvg": 3.7,
+
+    "downloads": 1000000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 118000 },
+
+      { "name": "2 star", "count": 87000 },
+
+      { "name": "3 star", "count": 205000 },
+
+      { "name": "4 star", "count": 450000 },
+
+      { "name": "5 star", "count": 1095000 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLm1pY3Jvc29mdC5vZmZpY2Uud29yZF9pY29uXzE1NjA0MTgyMjJfMDkx/icon.png?w=160&fakeurl=1",
+
+    "title": "Microsoft Word: Edit Documents",
+
+    "companyName": "Microsoft Corporation",
+
+    "id": 4,
+
+    "description": "Microsoft Word mobile app for editing, viewing and sharing documents.",
+
+    "size": 128.14,
+
+    "reviews": 14400000,
+
+    "ratingAvg": 4.8,
+
+    "downloads": 1000000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 250000 },
+
+      { "name": "2 star", "count": 420000 },
+
+      { "name": "3 star", "count": 980000 },
+
+      { "name": "4 star", "count": 3100000 },
+
+      { "name": "5 star", "count": 10000000 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLmFscGhhaW52ZW50b3IuZmlsZW1hbmFnZXJfaWNvbl8xNTU1MDM5MjgyXzA3Nw/icon.png?w=160&fakeurl=1",
+
+    "title": "File Manager Plus",
+
+    "companyName": "File Manager Plus",
+
+    "id": 5,
+
+    "description": "File Manager Plus — organize, move and manage files on your device.",
+
+    "size": 23.7,
+
+    "reviews": 45210,
+
+    "ratingAvg": 4.01,
+
+    "downloads": 8700000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 3600 },
+
+      { "name": "2 star", "count": 5421 },
+
+      { "name": "3 star", "count": 7800 },
+
+      { "name": "4 star", "count": 12389 },
+
+      { "name": "5 star", "count": 21000 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLm1pY3Jvc29mdC5vZmZpY2Uub3V0bG9va19pY29uXzE1NTU2MTA1MDVfMDU3/icon.png?w=160&fakeurl=1",
+
+    "title": "Microsoft Outlook",
+
+    "companyName": "Microsoft Corporation",
+
+    "id": 6,
+
+    "description": "Microsoft Outlook — email, calendar and contacts in one secure app.",
+
+    "size": 140.02,
+
+    "reviews": 10300000,
+
+    "ratingAvg": 4.5,
+
+    "downloads": 1000000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 250000 },
+
+      { "name": "2 star", "count": 420000 },
+
+      { "name": "3 star", "count": 800000 },
+
+      { "name": "4 star", "count": 2200000 },
+
+      { "name": "5 star", "count": 6900000 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/YWkueC5ncm9rX2ljb25fMTc0MDY0NjIwMV8wNjM/icon.png?w=160&fakeurl=1",
+
+    "title": "AIPURE",
+
+    "companyName": "AIPURE",
+
+    "id": 7,
+
+    "description": "AIPURE — lightweight AI tools & assistants for quick tasks and chat.",
+
+    "size": 35.47,
+
+    "reviews": 8123,
+
+    "ratingAvg": 3.76,
+
+    "downloads": 420000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 703 },
+
+      { "name": "2 star", "count": 890 },
+
+      { "name": "3 star", "count": 1701 },
+
+      { "name": "4 star", "count": 2404 },
+
+      { "name": "5 star", "count": 2425 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLmdvb2dsZS5hbmRyb2lkLmNhbGVuZGFyX2ljb25fMTY4ODYzOTUwMV8wODc/icon.png?w=160&fakeurl=1",
+
+    "title": "Google Calendar",
+
+    "companyName": "Google LLC",
+
+    "id": 8,
+
+    "description": "Google Calendar — schedule, reminders and event management on mobile.",
+
+    "size": 52.6,
+
+    "reviews": 332450,
+
+    "ratingAvg": 4.18,
+
+    "downloads": 190000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 10123 },
+
+      { "name": "2 star", "count": 13245 },
+
+      { "name": "3 star", "count": 45210 },
+
+      { "name": "4 star", "count": 120345 },
+
+      { "name": "5 star", "count": 103527 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLmRlZXBzZWVrLmNoYXRfaWNvbl8xNzM2OTE0OTcyXzAyNw/icon.png?w=160&fakeurl=1",
+
+    "title": "Deepseek",
+
+    "companyName": "DeepSeek",
+
+    "id": 9,
+
+    "description": "Deepseek — search & AI discovery tools (third-party).",
+
+    "size": 28.4,
+
+    "reviews": 9234,
+
+    "ratingAvg": 4.1,
+
+    "downloads": 540000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 802 },
+
+      { "name": "2 star", "count": 1102 },
+
+      { "name": "3 star", "count": 2410 },
+
+      { "name": "4 star", "count": 2835 },
+
+      { "name": "5 star", "count": 2085 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLmludHNpZy5jYW1zY2FubmVyX2ljb25fMTU1NTMyMTYwMV8wNTk/icon.png?w=160&fakeurl=1",
+
+    "title": "CamScanner - scanner, PDF maker",
+
+    "companyName": "INTSIG PTE",
+
+    "id": 10,
+
+    "description": "CamScanner — scan documents, create PDFs and share them easily.",
+
+    "size": 47.15,
+
+    "reviews": 4930000,
+
+    "ratingAvg": 4.7,
+
+    "downloads": 500000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 90000 },
+
+      { "name": "2 star", "count": 120000 },
+
+      { "name": "3 star", "count": 350000 },
+
+      { "name": "4 star", "count": 800000 },
+
+      { "name": "5 star", "count": 3600000 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLm1pY3Jvc29mdC5vZmZpY2UuZXhjZWxfaWNvbl8xNTYwNDE4MjU5XzA5NA/icon.png?w=160&fakeurl=1",
+
+    "title": "Microsoft Excel: Spreadsheets",
+
+    "companyName": "Microsoft Corporation",
+
+    "id": 11,
+
+    "description": "Microsoft Excel for spreadsheet creation, editing and analysis.",
+
+    "size": 150.9,
+
+    "reviews": 7770000,
+
+    "ratingAvg": 4.5,
+
+    "downloads": 1000000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 200000 },
+
+      { "name": "2 star", "count": 400000 },
+
+      { "name": "3 star", "count": 900000 },
+
+      { "name": "4 star", "count": 2200000 },
+
+      { "name": "5 star", "count": 4450000 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y24ud3BzLm1vZmZpY2VfZW5nX2ljb25fMTYxNjc3MjM5OV8wNTk/icon.png?w=160&fakeurl=1",
+
+    "title": "WPS Office - PDF, Word, Sheet",
+
+    "companyName": "WPS SOFTWARE PTE. LTD.",
+
+    "id": 12,
+
+    "description": "WPS Office — lightweight office suite to view/edit documents and PDFs.",
+
+    "size": 68.21,
+
+    "reviews": 193245,
+
+    "ratingAvg": 4.08,
+
+    "downloads": 95000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 8321 },
+
+      { "name": "2 star", "count": 12234 },
+
+      { "name": "3 star", "count": 24321 },
+
+      { "name": "4 star", "count": 51234 },
+
+      { "name": "5 star", "count": 95235 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLm1pY3Jvc29mdC5za3lkcml2ZV9pY29uXzE2MjgyMTEyMzVfMDk5/icon.png?w=160&fakeurl=1",
+
+    "title": "Microsoft OneDrive",
+
+    "companyName": "Microsoft Corporation",
+
+    "id": 13,
+
+    "description": "OneDrive — cloud storage and file sync from Microsoft.",
+
+    "size": 55.3,
+
+    "reviews": 481300,
+
+    "ratingAvg": 4.7,
+
+    "downloads": 180000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 12000 },
+
+      { "name": "2 star", "count": 20000 },
+
+      { "name": "3 star", "count": 45000 },
+
+      { "name": "4 star", "count": 110000 },
+
+      { "name": "5 star", "count": 300300 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLm1pY3Jvc29mdC5vZmZpY2Uub2ZmaWNlaHVicm93X2ljb25fMTczNjk1MTA3M18wMjY/icon.png?w=160&fakeurl=1",
+
+    "title": "Microsoft 365 Copilot",
+
+    "companyName": "Microsoft Corporation",
+
+    "id": 14,
+
+    "description": "Microsoft 365 Copilot — AI assistant integrated with Microsoft 365 apps.",
+
+    "size": 210.4,
+
+    "reviews": 54214,
+
+    "ratingAvg": 4.6,
+
+    "downloads": 12000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 6213 },
+
+      { "name": "2 star", "count": 7124 },
+
+      { "name": "3 star", "count": 9821 },
+
+      { "name": "4 star", "count": 12209 },
+
+      { "name": "5 star", "count": 23847 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y24ud3BzLm1vZmZpY2VfaTE4bl9pY29uXzE2MTcxMTc3MThfMDYx/icon.png?w=160&fakeurl=1",
+
+    "title": "WPS Office Lite",
+
+    "companyName": "WPS SOFTWARE PTE. LTD.",
+
+    "id": 15,
+
+    "description": "WPS Office Lite — compact version of WPS for low-end devices.",
+
+    "size": 18.95,
+
+    "reviews": 32145,
+
+    "ratingAvg": 4.02,
+
+    "downloads": 5400000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 1203 },
+
+      { "name": "2 star", "count": 2104 },
+
+      { "name": "3 star", "count": 5401 },
+
+      { "name": "4 star", "count": 8321 },
+
+      { "name": "5 star", "count": 15216 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLmR1Y2tkdWNrZ28ubW9iaWxlLmFuZHJvaWRfaWNvbl8xNjgzNjc2NDU2XzA2OQ/icon.png?w=160&fakeurl=1",
+
+    "title": "DuckDuckGo Browser, Search, AI",
+
+    "companyName": "DuckDuckGo",
+
+    "id": 16,
+
+    "description": "DuckDuckGo — privacy-focused browser and search engine with tracker blocking.",
+
+    "size": 36.12,
+
+    "reviews": 85234,
+
+    "ratingAvg": 4.2,
+
+    "downloads": 43000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 3201 },
+
+      { "name": "2 star", "count": 5123 },
+
+      { "name": "3 star", "count": 9312 },
+
+      { "name": "4 star", "count": 23123 },
+
+      { "name": "5 star", "count": 44275 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/c2hhcmVpdC5saXRlX2ljb25fMTcwODkzNzAzMV8wMDg/icon.png?w=160&fakeurl=1",
+
+    "title": "SHAREit Lite - Fast File Share",
+
+    "companyName": "Smart Media4U Technology Pte.Ltd.",
+
+    "id": 17,
+
+    "description": "SHAREit Lite — fast offline file transfer tool with small footprint.",
+
+    "size": 9.44,
+
+    "reviews": 41290,
+
+    "ratingAvg": 3.95,
+
+    "downloads": 9000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 4321 },
+
+      { "name": "2 star", "count": 5210 },
+
+      { "name": "3 star", "count": 8423 },
+
+      { "name": "4 star", "count": 9321 },
+
+      { "name": "5 star", "count": 9015 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLmpyemhlbmcuc3VwZXJ2cG5wYXltZW50X2ljb25fMTU1NzQwMjgxMF8wOTI/icon.png?w=160&fakeurl=1",
+
+    "title": "SuperVPN Pro",
+
+    "companyName": "SuperSoftTech",
+
+    "id": 18,
+
+    "description": "SuperVPN Pro — VPN service for secure browsing and region unlocking.",
+
+    "size": 27.88,
+
+    "reviews": 201000,
+
+    "ratingAvg": 4.4,
+
+    "downloads": 10000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 12030 },
+
+      { "name": "2 star", "count": 16020 },
+
+      { "name": "3 star", "count": 20010 },
+
+      { "name": "4 star", "count": 14020 },
+
+      { "name": "5 star", "count": 20020 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLmNocm9tZS5iZXRhX2ljb25fMTcwNTQyMzIxOF8wMTU/icon.png?w=160&fakeurl=1",
+
+    "title": "Chrome Beta",
+
+    "companyName": "Google LLC",
+
+    "id": 19,
+
+    "description": "Chrome Beta — preview channel of Google Chrome with early features.",
+
+    "size": 98.05,
+
+    "reviews": 567000,
+
+    "ratingAvg": 4.4,
+
+    "downloads": 50000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 12000 },
+
+      { "name": "2 star", "count": 24000 },
+
+      { "name": "3 star", "count": 85000 },
+
+      { "name": "4 star", "count": 160000 },
+
+      { "name": "5 star", "count": 298000 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludF9pY29uXzE1NjA0MTgyODVfMDYz/icon.png?w=160&fakeurl=1",
+
+    "title": "Microsoft PowerPoint",
+
+    "companyName": "Microsoft Corporation",
+
+    "id": 20,
+
+    "description": "PowerPoint mobile — create, edit and present slides on the go.",
+
+    "size": 142.77,
+
+    "reviews": 201234,
+
+    "ratingAvg": 4.3,
+
+    "downloads": 95000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 10234 },
+
+      { "name": "2 star", "count": 13234 },
+
+      { "name": "3 star", "count": 32213 },
+
+      { "name": "4 star", "count": 50234 },
+
+      { "name": "5 star", "count": 85219 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLmxhcnVzLndvbGZfaWNvbl8xNjkzMjMwODUxXzA1NA/icon.png?w=160&fakeurl=1",
+
+    "title": "Wolf",
+
+    "companyName": "Larus",
+
+    "id": 21,
+
+    "description": "Wolf by Larus — (demo entry) utility / entertainment app.",
+
+    "size": 42.66,
+
+    "reviews": 8321,
+
+    "ratingAvg": 3.82,
+
+    "downloads": 310000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 612 },
+
+      { "name": "2 star", "count": 821 },
+
+      { "name": "3 star", "count": 1623 },
+
+      { "name": "4 star", "count": 2212 },
+
+      { "name": "5 star", "count": 2853 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/YWkucGVycGxleGl0eS5hcHAuYW5kcm9pZF9pY29uXzE3MDAwNDU0OTlfMDI1/icon.png?w=160&fakeurl=1",
+
+    "title": "Perplexity - Ask Anything",
+
+    "companyName": "PerplexityAI",
+
+    "id": 22,
+
+    "description": "Perplexity — question answering and research assistant powered by AI.",
+
+    "size": 65.3,
+
+    "reviews": 45213,
+
+    "ratingAvg": 4.5,
+
+    "downloads": 8700000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 3121 },
+
+      { "name": "2 star", "count": 4210 },
+
+      { "name": "3 star", "count": 8210 },
+
+      { "name": "4 star", "count": 11234 },
+
+      { "name": "5 star", "count": 14548 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/cmlkbWlrLmtleWJvYXJkX2ljb25fMTYwMTUzNDQ2Nl8wMTk/icon.png?w=160&fakeurl=1",
+
+    "title": "Ridmik Keyboard",
+
+    "companyName": "Ridmik Labs",
+
+    "id": 23,
+
+    "description": "Ridmik Keyboard — popular Bangla input keyboard for Android.",
+
+    "size": 12.85,
+
+    "reviews": 368000,
+
+    "ratingAvg": 4.4,
+
+    "downloads": 100000000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 3123 },
+
+      { "name": "2 star", "count": 4210 },
+
+      { "name": "3 star", "count": 9211 },
+
+      { "name": "4 star", "count": 16234 },
+
+      { "name": "5 star", "count": 32356 }
+
+    ]
+
+  },
+
+  {
+
+    "image": "https://image.winudf.com/v2/image1/Y29tLm9vcmVkb28uc2VsZmNhcmVfaWNvbl8xNzU4MzY1MDM5XzA1MQ/icon.png?w=160&fakeurl=1",
+
+    "title": "Ooredoo Selfcare",
+
+    "companyName": "Ooredoo Pvt Ltd",
+
+    "id": 24,
+
+    "description": "Ooredoo Selfcare — manage mobile account, recharge and check usage.",
+
+    "size": 22.4,
+
+    "reviews": 14321,
+
+    "ratingAvg": 4.44,
+
+    "downloads": 410000,
+
+    "ratings": [
+
+      { "name": "1 star", "count": 1203 },
+
+      { "name": "2 star", "count": 1502 },
+
+      { "name": "3 star", "count": 3104 },
+
+      { "name": "4 star", "count": 3526 },
+
+      { "name": "5 star", "count": 5986 }
+
+    ]
+
+  }
+
+]
+
