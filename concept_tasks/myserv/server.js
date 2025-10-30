@@ -27,6 +27,10 @@ app.get('/users', (req, res)=>{
     res.send(users);
 });
 
+app.post('/users', (req, res)=>{
+    console.log('post method called!');
+});
+
 app.listen(port, (res)=>{
     console.log(`myserv is running @: ${port}`);
     
