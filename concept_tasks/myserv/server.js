@@ -5,6 +5,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 app.use(cors());
+app.use(express.json());
 
 app.get('/', (req, res)=>{
     res.send(`<h1 style='text-align:center; 
@@ -28,7 +29,11 @@ app.get('/users', (req, res)=>{
 });
 
 app.post('/users', (req, res)=>{
-    console.log('post method called!');
+    console.log('post method called!', req.body);
+    const addUser =  req.body;
+    addUser.id = addUser.length + 1;
+    users.push(addUser);
+    res.send(addUser);
 });
 
 app.listen(port, (res)=>{
