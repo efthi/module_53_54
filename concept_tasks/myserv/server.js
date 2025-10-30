@@ -31,9 +31,11 @@ app.get('/users', (req, res)=>{
 app.post('/users', (req, res)=>{
     console.log('post method called!', req.body);
     const addUser =  req.body;
-    addUser.id = addUser.length + 1;
+    addUser.id = users.length + 1;
+  
     users.push(addUser);
     res.send(addUser);
+   
 });
 
 app.listen(port, (res)=>{

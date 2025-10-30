@@ -1,7 +1,9 @@
 import React, { useState } from 'react';
+import { use } from 'react';
 
-const User = ({users}) => {
-//    const [user, setUser] = useState;
+const User = ({userPromise}) => {
+    const initialusers = use(userPromise);
+    const [users, setUsers] = useState(initialusers);
 
     const handleAddUser = (e)=>{
         e.preventDefault();
@@ -16,7 +18,15 @@ const User = ({users}) => {
                 'content-type': 'application/json'
             },
             body: JSON.stringify(newUser),
-        });
+        }).then(res=> res.json())
+            .then(data => {
+                console.log('data after post', data);
+                const newUsers = [...users, data];
+                setUsers(newUsers);
+                console.log(users);
+                
+                e.target.reset();
+            })
         
     }
 
@@ -36,8 +46,8 @@ const User = ({users}) => {
            <h1 className='text-2xl font-bold'>User Info</h1>
             <div>
             {
-                users.map((user) => {
-                    return <p key={user.id}>Username: {user.name} Email: {user.email}</p>;
+                initialusers.map((initUser) => {
+                    return <p key={initUser.id}>Username: {initUser.name} Email: {initUser.email}</p>;
                 })
             }
             </div>
